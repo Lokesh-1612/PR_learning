@@ -14,4 +14,5 @@ public class Addition {
             System.out.println("The quotient of " + num1 + " and " + num2 + " is: " + quotient);
         }
     }
+
 }
