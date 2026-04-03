@@ -6,12 +6,12 @@ public class Addition {
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 
-    public class division {
+    class division {
         public static void main(String[] args) {
             int num1 = 20;
             int num2 = 4;
             int quotient = num1 / num2;
-            System.out.println("The quotient of  " + num1 + " and " + num2 + " is: " + quotient);
+            System.out.println("The quotient of " + num1 + " and " + num2 + " is: " + quotient);
         }
     }
 }
