@@ -6,10 +6,6 @@ public class Addition {
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 
-
-
-
-
     public class division {
         public static void main(String[] args) {
             int num1 = 20;
